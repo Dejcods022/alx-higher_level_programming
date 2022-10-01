@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print(my_int)
+number = {my_int}
+print(f"{my_int},Battery street" "\n")
